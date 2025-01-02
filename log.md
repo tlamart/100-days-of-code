@@ -16,4 +16,4 @@
 
 **Thoughts:** In one hand this is a good reminder about how things work in C, on the other hand It is a little bit too much easy, but that's ok for a beginning and I may need it.
 
-**Link to work:**
+**Link to work:** https://github.com/tlamart/100-days-of-code/tree/master/Work/day01
