@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: January 1, 2025
-##### (delete me or comment me out)
 
 **Today's Progress:** Started CS50x Havard course, watch the first lesson and begin some scratch dev.
 
@@ -10,7 +9,6 @@
 **Link to work:** https://scratch.mit.edu/projects/1115663713
 
 ### Day 1: January 2, 2025
-##### (delete me or comment me out)
 
 **Today's Progress:** Watched CS50x second lecture about C, finished yesterday exercise and done exercises of week 1.
 
