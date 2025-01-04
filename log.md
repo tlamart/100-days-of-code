@@ -25,3 +25,9 @@
 **Thoughts:** I'm banging my head on the last exercice, I cannot figure an _easy_ way to solve it, but I love the struggle !
 
 **Link to work:**
+
+### Day 3: January 4, 2025
+
+**Today's Progress:** Watched lecture from weeks 3 and 4, finished tideman ! And started week 4 exercices.
+
+**Thoughts:** Still (re)discovering a lot of stuff ! I'm enjoying every moments of the journey so far !
