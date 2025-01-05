@@ -29,3 +29,9 @@
 **Today's Progress:** Watched lecture from weeks 3 and 4, finished tideman ! And started week 4 exercices.
 
 **Thoughts:** Still (re)discovering a lot of stuff ! I'm enjoying every moments of the journey so far !
+
+### Day 4: January 5, 2025
+
+**Today's Progress:** Still working on week's 4 exercices.
+
+**Thoughts:** It's getting a little bit redundant ... I was hoping of being done with C exercice but It seems that It'll be for tomorrow, or even for in 2 days.
