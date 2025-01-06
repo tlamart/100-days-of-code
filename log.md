@@ -35,3 +35,9 @@
 **Today's Progress:** Still working on week's 4 exercices.
 
 **Thoughts:** It's getting a little bit redundant ... I was hoping of being done with C exercice but It seems that It'll be for tomorrow, or even for in 2 days.
+
+### Day 5: January 6, 2025
+
+**Today's Progress:** Almost finished all c exercices ! I just have one error left to fix in the last one.
+
+**Thoughts:** Happy with what I've achieved so far, I'm still able to code in C.
