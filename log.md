@@ -41,3 +41,9 @@
 **Today's Progress:** Almost finished all c exercices ! I just have one error left to fix in the last one.
 
 **Thoughts:** Happy with what I've achieved so far, I'm still able to code in C.
+
+### Day 5: January 6, 2025 (bis)
+
+**Today's Progress:** All c exercices done !
+
+**Thoughts:** Let's get to python tomorrow !
