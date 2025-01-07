@@ -47,3 +47,9 @@
 **Today's Progress:** All c exercices done !
 
 **Thoughts:** Let's get to python tomorrow !
+
+### Day 6: January 7, 2025
+
+**Today's Progress:** 4 python exercices done, one more to go !
+
+**Thoughts:** I feel like my code is horrible : changing variable type as if it was a thing...
