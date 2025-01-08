@@ -20,36 +20,42 @@
 
 **Today's Progress:** Done week 2 and 3 exercices of CS50x.
 
-**Thoughts:** I'm banging my head on the last exercice, I cannot figure an _easy_ way to solve it, but I love the struggle !
+**Thoughts:** I'm banging my head on the last exercise, I cannot figure an _easy_ way to solve it, but I love the struggle !
 
 **Link to work:**
 
 ### Day 3: January 4, 2025
 
-**Today's Progress:** Watched lecture from weeks 3 and 4, finished tideman ! And started week 4 exercices.
+**Today's Progress:** Watched lecture from weeks 3 and 4, finished tideman ! And started week 4 exercises.
 
 **Thoughts:** Still (re)discovering a lot of stuff ! I'm enjoying every moments of the journey so far !
 
 ### Day 4: January 5, 2025
 
-**Today's Progress:** Still working on week's 4 exercices.
+**Today's Progress:** Still working on week's 4 exercises.
 
-**Thoughts:** It's getting a little bit redundant ... I was hoping of being done with C exercice but It seems that It'll be for tomorrow, or even for in 2 days.
+**Thoughts:** It's getting a little bit redundant ... I was hoping of being done with C exercise but It seems that It'll be for tomorrow, or even for in 2 days.
 
 ### Day 5: January 6, 2025
 
-**Today's Progress:** Almost finished all c exercices ! I just have one error left to fix in the last one.
+**Today's Progress:** Almost finished all c exercises ! I just have one error left to fix in the last one.
 
 **Thoughts:** Happy with what I've achieved so far, I'm still able to code in C.
 
 ### Day 5: January 6, 2025 (bis)
 
-**Today's Progress:** All c exercices done !
+**Today's Progress:** All c exercises done !
 
 **Thoughts:** Let's get to python tomorrow !
 
 ### Day 6: January 7, 2025
 
-**Today's Progress:** 4 python exercices done, one more to go !
+**Today's Progress:** 4 python exercises done, one more to go !
 
 **Thoughts:** I feel like my code is horrible : changing variable type as if it was a thing...
+
+### Day 7: January 8, 2025
+
+**Today's Progress:** Done the last python exercice from yesterday and watch / read more stuff about python
+
+**Thoughts:** Not that much of a productive day today ...
