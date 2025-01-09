@@ -59,3 +59,9 @@
 **Today's Progress:** Done the last python exercice from yesterday and watch / read more stuff about python
 
 **Thoughts:** Not that much of a productive day today ...
+
+### Day 8: January 9, 2025
+
+**Today's Progree:** Watched week 7 on SQL and short lecture (1h) about (gen) AI, and started the exercise on sql.
+
+**THoughts:** I've learned so much today ! Really pleasant !
