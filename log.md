@@ -62,6 +62,13 @@
 
 ### Day 8: January 9, 2025
 
-**Today's Progree:** Watched week 7 on SQL and short lecture (1h) about (gen) AI, and started the exercise on sql.
+**Today's Progress:** Watched week 7 on SQL and short lecture (1h) about (gen) AI, and started the exercise on sql.
 
 **THoughts:** I've learned so much today ! Really pleasant !
+
+### Day 9: January 10, 2025
+
+**Today's Progress:** Continue on SQL, almost finish all exercises, one last to go !
+
+**THoughts:** Still struggling a bit with multiple joins over table ...
+
