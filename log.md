@@ -70,5 +70,10 @@
 
 **Today's Progress:** Continue on SQL, almost finish all exercises, one last to go !
 
-**THoughts:** Still struggling a bit with multiple joins over table ...
+**Thoughts:** Still struggling a bit with multiple joins over table ...
 
+### Day 10: January 11, 2025
+
+**Today's Progress:** Finished every SQL exercises !
+
+**Thoughts:** Had a lot of fun with the fiftyville problem ! 3 more _weeks_ to go !
