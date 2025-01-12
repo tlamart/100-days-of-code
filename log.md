@@ -64,7 +64,7 @@
 
 **Today's Progress:** Watched week 7 on SQL and short lecture (1h) about (gen) AI, and started the exercise on sql.
 
-**THoughts:** I've learned so much today ! Really pleasant !
+**Thoughts:** I've learned so much today ! Really pleasant !
 
 ### Day 9: January 10, 2025
 
@@ -77,3 +77,11 @@
 **Today's Progress:** Finished every SQL exercises !
 
 **Thoughts:** Had a lot of fun with the fiftyville problem ! 3 more _weeks_ to go !
+
+### Day 11: January 12, 2025
+
+**Today's Progress:** Started to learn a bit about Lua and Löve Framework
+
+**Thoughts:** This could be a fun final project, tomorrow I'll work on webdev
+
+**Link to work:** https://github.com/tlamart/brik
