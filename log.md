@@ -85,3 +85,9 @@
 **Thoughts:** This could be a fun final project, tomorrow I'll work on webdev
 
 **Link to work:** https://github.com/tlamart/brik
+
+### Day 12: January 13, 2025
+
+**Today's Progress:** Watch the html, css, js lecture, almost done all exercises (two).
+
+**Thoughts:** I wonder if one day I'll be ok with front development ... May be It's the UX/UI knowledge I'm missing but I NEVER know how to style things... Also I've done a todo (again).
