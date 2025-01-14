@@ -91,3 +91,9 @@
 **Today's Progress:** Watch the html, css, js lecture, almost done all exercises (two).
 
 **Thoughts:** I wonder if one day I'll be ok with front development ... May be It's the UX/UI knowledge I'm missing but I NEVER know how to style things... Also I've done a todo (again).
+
+### Day 13: January 14, 2025
+
+**Today's Progress:** Paused CS50x again to work on my little pong like game.
+
+**Thoughts:** I spent a lot of time on it ! May be too much, but things are going great and I enjoy it so why not ?!
