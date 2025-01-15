@@ -97,3 +97,9 @@
 **Today's Progress:** Paused CS50x again to work on my little pong like game.
 
 **Thoughts:** I spent a lot of time on it ! May be too much, but things are going great and I enjoy it so why not ?!
+
+### Day 14: January 15, 2025
+
+**Today's Progress:** No CS50x again today, but huge progress on the game now called "_ponk_", almost a MVP. Switch from zerobrain to vscode as text editor.
+
+**Thoughts:** Already two weeks ! Time flies when we have fun !
