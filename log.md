@@ -103,3 +103,10 @@
 **Today's Progress:** No CS50x again today, but huge progress on the game now called "_ponk_", almost a MVP. Switch from zerobrain to vscode as text editor.
 
 **Thoughts:** Already two weeks ! Time flies when we have fun !
+
+
+### Day 15: January 16, 2025
+
+**Today's Progress:** Still working on my ponk game ! Learnt about how to save / load game, fixing bug on collision.
+
+**Thoughts:** May be tomorrow I'll head back to cs50x ... 
