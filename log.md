@@ -110,3 +110,9 @@
 **Today's Progress:** Still working on my ponk game ! Learnt about how to save / load game, fixing bug on collision.
 
 **Thoughts:** May be tomorrow I'll head back to cs50x ... 
+
+## Day 16: January 17, 2025
+
+**Today's Progress:** Watched a bit the last (?) CS50x lecture, and work on understanding math operator computing.
+
+**Thoughts:** I get the + - * operator but can't implement it for now, but the / is still msterious ...
