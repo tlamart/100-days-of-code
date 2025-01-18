@@ -111,8 +111,14 @@
 
 **Thoughts:** May be tomorrow I'll head back to cs50x ... 
 
-## Day 16: January 17, 2025
+### Day 16: January 17, 2025
 
 **Today's Progress:** Watched a bit the last (?) CS50x lecture, and work on understanding math operator computing.
 
-**Thoughts:** I get the + - * operator but can't implement it for now, but the / is still msterious ...
+**Thoughts:** I get the + - * operator but can't implement it for now, but the / is still mysterious ...
+
+### Day 17, January 18 2025
+
+**Today's Progress:** No _real_ coding today but instead explain my game and other stuff to tiph.
+
+**Thoughts:** Tomorrow will be a big day ! Always interesting to go through all my code and voila.
