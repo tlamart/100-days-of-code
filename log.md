@@ -122,3 +122,9 @@
 **Today's Progress:** No _real_ coding today but instead explain my game and other stuff to tiph.
 
 **Thoughts:** Tomorrow will be a big day ! Always interesting to go through all my code and voila.
+
+### Day 18, January 19 2025
+
+**Today's Progress:** Finished lecture about flask and back end in general.
+
+**Thoughts:** Almost done with CS50x !
