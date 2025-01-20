@@ -128,3 +128,9 @@
 **Today's Progress:** Finished lecture about flask and back end in general.
 
 **Thoughts:** Almost done with CS50x !
+
+### Day 19, January 20 2025
+
+**Today's Progress:** Finished one exercise on flas, one more to go !
+
+**Thoughts:** It's been a while I haven't done an exercise from CS50x !
