@@ -134,3 +134,9 @@
 **Today's Progress:** Finished one exercise on flas, one more to go !
 
 **Thoughts:** It's been a while I haven't done an exercise from CS50x !
+
+### Day 20, January 21 2025
+
+**Today's Progress:** Still working on the last CS50x exercise.
+
+**Thoughts:** I'm getting a little bit more confident with web dev in general but only a little bit.
