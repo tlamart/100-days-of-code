@@ -146,3 +146,7 @@
 **Today's Progress:** Last exercise _done_, now It' time to debug !..
 
 **Thoughts:** I coded for very too long, right now It's 4:30 am, time to get some sleep !
+
+### Day 21, January 22, 2025 (bis)
+
+**Today's Progress:** Almost 
