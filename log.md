@@ -147,8 +147,14 @@
 
 **Thoughts:** I coded for very too long, right now It's 4:30 am, time to get some sleep !
 
-### Day 22, 23, 24, January 22, 2025
+### Day 22, 23, 24, January 25, 2025
 
 **Progress:** Finished the last exercise of CS50x, start an other game : skuaro.
 
 **Thoughts**: Totally forgot to log my progress this last days ... I'm off to squaro for my final project of cs50x.
+
+### Day 24, January 25, 2025
+
+**Progress:** Continue on my _skuaro_ game, implemented the grid generation.
+
+**Thoughts:** I'm feeling that sometimes I do over complicated stuff ...
