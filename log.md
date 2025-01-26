@@ -158,3 +158,9 @@
 **Progress:** Continue on my _skuaro_ game, implemented the grid generation.
 
 **Thoughts:** I'm feeling that sometimes I do over complicated stuff ...
+
+### Day 25, January 26, 2025
+
+**Progress:** Grid generation done, click on corners done, good stuff
+
+**Thoughts:** Work way to late again, time to get some sleep !
