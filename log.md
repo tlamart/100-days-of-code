@@ -141,26 +141,32 @@
 
 **Thoughts:** I'm getting a little bit more confident with web dev in general but only a little bit.
 
-### Day 21, January 22, 2025
+### Day 21, January 22 2025
 
 **Today's Progress:** Last exercise _done_, now It' time to debug !..
 
 **Thoughts:** I coded for very too long, right now It's 4:30 am, time to get some sleep !
 
-### Day 22, 23, 24, January 25, 2025
+### Day 22, 23, 24, January 25 2025
 
 **Progress:** Finished the last exercise of CS50x, start an other game : skuaro.
 
 **Thoughts**: Totally forgot to log my progress this last days ... I'm off to squaro for my final project of cs50x.
 
-### Day 24, January 25, 2025
+### Day 24, January 25 2025
 
 **Progress:** Continue on my _skuaro_ game, implemented the grid generation.
 
 **Thoughts:** I'm feeling that sometimes I do over complicated stuff ...
 
-### Day 25, January 26, 2025
+### Day 25, January 26 2025
 
 **Progress:** Grid generation done, click on corners done, good stuff
 
 **Thoughts:** Work way to late again, time to get some sleep !
+
+### Day 26, January 27 2025
+
+**Progress:** Started UI of my game skurao !
+
+**Thoughts**: Vararg are not very clear in lua for now ...
