@@ -167,6 +167,12 @@
 
 ### Day 26, January 27 2025
 
-**Progress:** Started UI of my game skurao !
+**Progress:** Started UI of my game skuaro !
 
-**Thoughts**: Vararg are not very clear in lua for now ...
+**Thoughts:** Vararg in lua are not very clear for now ...
+
+### Day 27, January 28 2025
+
+**Progress:** Add restart feature to skuaro, first release done.
+
+**Thoughts:** I wonder if there is already a library for the ui ... answer : [yes there is](https://www.love2d.org/wiki/Graphical_User_Interface) ! I must check it tomorrow !
