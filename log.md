@@ -176,3 +176,5 @@
 **Progress:** Add restart feature to skuaro, first release done.
 
 **Thoughts:** I wonder if there is already a library for the ui ... answer : [yes there is](https://www.love2d.org/wiki/Graphical_User_Interface) ! I must check it tomorrow !
+
+**Link to work:** https://github.com/tlamart/skuaro/releases/tag/v0.0.2-mvp
