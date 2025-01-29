@@ -178,3 +178,9 @@
 **Thoughts:** I wonder if there is already a library for the ui ... answer : [yes there is](https://www.love2d.org/wiki/Graphical_User_Interface) ! I must check it tomorrow !
 
 **Link to work:** https://github.com/tlamart/skuaro/releases/tag/v0.0.2-mvp
+
+### Day 28, January 29 2025
+
+**Progress:** Add menu to ponk, first (and last?) released in coming !
+
+**Thoughts:** So satisfying to reuse stuff from other (personal) project !
