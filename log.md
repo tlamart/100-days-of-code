@@ -184,3 +184,9 @@
 **Progress:** Add menu to ponk, first (and last?) released in coming !
 
 **Thoughts:** So satisfying to reuse stuff from other (personal) project !
+
+### Day 29, January 30 2025
+
+**Progress:** Completed CS50x !!
+
+**Thoughts:** I'm so excited !!
