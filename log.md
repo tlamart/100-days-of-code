@@ -190,3 +190,9 @@
 **Progress:** Completed CS50x !!
 
 **Thoughts:** I'm so excited !!
+
+### Day 30, January 31 2025
+
+**Progress:** Try to add a menu to skuaro, still bugged
+
+**Thoughts:** Almost didn't find time to code today !
