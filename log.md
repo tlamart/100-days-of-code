@@ -196,3 +196,9 @@
 **Progress:** Try to add a menu to skuaro, still bugged
 
 **Thoughts:** Almost didn't find time to code today !
+
+### Day 31, February 1 2025
+
+**¨Progress:** Add menu, music, pause & quit button to skuaro !
+
+**Thoughts:** My code is a mess ! HELP ME PLEASE ! (i logged this day too lately ...)
